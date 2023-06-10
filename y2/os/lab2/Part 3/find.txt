@@ -1,0 +1,45 @@
+
+test-dir
+test-dir/.hidden subdir
+test-dir/d 4
+test-dir/d 4/d 4.1
+test-dir/d 4/d 4.1/d 4.1.1
+test-dir/d 4/d4.2
+test-dir/d 4/d4.3
+test-dir/d 4/d4.4
+test-dir/d1
+test-dir/d1/.d1.3
+test-dir/d1/d1.1
+test-dir/d1/d1.2
+test-dir/d1/d1.2/d.1.2.1
+test-dir/d1/d1.2/d.1.2.1/d.1.2.1.1
+test-dir/d1/d1.2/d.1.2.2
+test-dir/d2
+test-dir/d2/d2.1
+test-dir/d2/d2.2
+test-dir/d2/d2.3
+test-dir/d3
+test-dir/d3/d3.1
+test-dir/d3/d3.2
+test-dir/d3/d3.3
+test-dir/d3/d3.3/.svn
+test-dir/d3/d3.3/.svn/prop-base
+test-dir/d3/d3.3/.svn/props
+test-dir/d3/d3.3/.svn/text-base
+test-dir/d3/d3.3/.svn/tmp
+test-dir/d3/d3.3/.svn/tmp/prop-base
+test-dir/d3/d3.3/.svn/tmp/props
+test-dir/d3/d3.3/.svn/tmp/text-base
+test-dir/d3/d3.4
+test-dir/d3/d3.4/.svn
+test-dir/d3/d3.4/.svn/prop-base
+test-dir/d3/d3.4/.svn/props
+test-dir/d3/d3.4/.svn/text-base
+test-dir/d3/d3.4/.svn/tmp
+test-dir/d3/d3.4/.svn/tmp/prop-base
+test-dir/d3/d3.4/.svn/tmp/props
+test-dir/d3/d3.4/.svn/tmp/text-base
+test-dir/d5
+test-dir/d5/d5.1
+test-dir/d5/d5.2
+test-dir/d5/d5.3

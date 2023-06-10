@@ -1,0 +1,5 @@
+add first last 1 2 
+add second last 3 4 
+del 0
+del 0
+exit

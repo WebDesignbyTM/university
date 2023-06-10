@@ -1,0 +1,965 @@
+a3.c: Error!
+Error: INVALID_HEADER       (line:   1, col:   1):	Missing or invalid 42 header
+Error: PREPROC_CONSTANT     (line:  13, col:  32):	Preprocessor statement must only contain constant defines
+Error: TOO_MANY_VALS        (line:  13, col:  42):	Too many values on define
+Error: PREPROC_CONSTANT     (line:  14, col:  36):	Preprocessor statement must only contain constant defines
+Error: TOO_MANY_VALS        (line:  14, col:  46):	Too many values on define
+Error: PREPROC_CONSTANT     (line:  15, col:  36):	Preprocessor statement must only contain constant defines
+Error: TOO_MANY_VALS        (line:  15, col:  46):	Too many values on define
+Error: PREPROC_CONSTANT     (line:  16, col:  36):	Preprocessor statement must only contain constant defines
+Error: TOO_MANY_VALS        (line:  16, col:  46):	Too many values on define
+Error: PREPROC_CONSTANT     (line:  17, col:  36):	Preprocessor statement must only contain constant defines
+Error: TOO_MANY_VALS        (line:  17, col:  46):	Too many values on define
+Notice: GLOBAL_VAR_DETECTED  (line:  44, col:   1):	Global variable present in file. Make sure it is a reasonable choice.
+Error: FORBIDDEN_CHAR_NAME  (line:  44, col:  17):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: GLOBAL_VAR_NAMING    (line:  44, col:  17):	Global variable must start with g_
+Error: PREPROC_UKN_STATEMENT (line:  46, col:   1):	Unrecognized preprocessor statement
+Error: MIXED_SPACE_TAB      (line:  49, col:  14):	Mixed spaces and tabs
+Error: SPACE_REPLACE_TAB    (line:  49, col:  14):	Found space when expecting tab
+Error: MIXED_SPACE_TAB      (line:  50, col:  14):	Mixed spaces and tabs
+Error: SPACE_REPLACE_TAB    (line:  50, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  50, col:  17):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MIXED_SPACE_TAB      (line:  51, col:  13):	Mixed spaces and tabs
+Error: SPACE_REPLACE_TAB    (line:  51, col:  13):	Found space when expecting tab
+Error: MIXED_SPACE_TAB      (line:  52, col:  13):	Mixed spaces and tabs
+Error: SPACE_REPLACE_TAB    (line:  52, col:  13):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  52, col:  17):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPACE_REPLACE_TAB    (line:  53, col:   2):	Found space when expecting tab
+Error: USER_DEFINED_TYPEDEF (line:  53, col:   3):	User defined typedef must start with t_
+Error: MIXED_SPACE_TAB      (line:  56, col:   9):	Mixed spaces and tabs
+Error: SPACE_REPLACE_TAB    (line:  56, col:   9):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  56, col:  13):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MIXED_SPACE_TAB      (line:  57, col:  13):	Mixed spaces and tabs
+Error: SPACE_REPLACE_TAB    (line:  57, col:  13):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  57, col:  17):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line:  57, col:  17):	Misaligned variable declaration
+Error: MIXED_SPACE_TAB      (line:  58, col:  14):	Mixed spaces and tabs
+Error: SPACE_REPLACE_TAB    (line:  58, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  58, col:  17):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line:  58, col:  17):	Misaligned variable declaration
+Error: MIXED_SPACE_TAB      (line:  59, col:  14):	Mixed spaces and tabs
+Error: SPACE_REPLACE_TAB    (line:  59, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  59, col:  17):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line:  59, col:  17):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  60, col:   2):	Found space when expecting tab
+Error: USER_DEFINED_TYPEDEF (line:  60, col:   3):	User defined typedef must start with t_
+Error: SPACE_REPLACE_TAB    (line:  63, col:   9):	Found space when expecting tab
+Error: SPC_AFTER_POINTER    (line:  63, col:   9):	space after pointer
+Error: SPACE_REPLACE_TAB    (line:  64, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  64, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line:  64, col:   9):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  65, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  65, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  66, col:  11):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  66, col:  12):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  67, col:   2):	Found space when expecting tab
+Error: USER_DEFINED_TYPEDEF (line:  67, col:   3):	User defined typedef must start with t_
+Error: SPACE_REPLACE_TAB    (line:  70, col:   9):	Found space when expecting tab
+Error: SPC_AFTER_POINTER    (line:  70, col:   9):	space after pointer
+Error: SPACE_REPLACE_TAB    (line:  71, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  71, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line:  71, col:   9):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  72, col:  14):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  72, col:  15):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  73, col:  11):	Found space when expecting tab
+Error: MISALIGNED_VAR_DECL  (line:  73, col:  12):	Misaligned variable declaration
+Error: SPACE_REPLACE_TAB    (line:  74, col:   2):	Found space when expecting tab
+Error: USER_DEFINED_TYPEDEF (line:  74, col:   3):	User defined typedef must start with t_
+Error: PREPROC_UKN_STATEMENT (line:  76, col:   1):	Unrecognized preprocessor statement
+Error: SPACE_BEFORE_FUNC    (line:  78, col:   4):	space before function name
+Error: BRACE_NEWLINE        (line:  78, col:  23):	Expected newline before brace
+Error: LABEL_FBIDDEN        (line:  79, col:   1):	Label statements are forbidden
+Error: TERNARY_FBIDDEN      (line:  79, col:  18):	Ternaries are forbidden
+Error: SPACE_BEFORE_FUNC    (line:  82, col:   4):	space before function name
+Error: BRACE_NEWLINE        (line:  82, col:  23):	Expected newline before brace
+Error: LABEL_FBIDDEN        (line:  83, col:   1):	Label statements are forbidden
+Error: TERNARY_FBIDDEN      (line:  83, col:  18):	Ternaries are forbidden
+Error: SPACE_BEFORE_FUNC    (line:  86, col:   4):	space before function name
+Error: FORBIDDEN_CHAR_NAME  (line:  86, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: FORBIDDEN_CHAR_NAME  (line:  86, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPC_AFTER_POINTER    (line:  86, col:  36):	space after pointer
+Error: BRACE_NEWLINE        (line:  86, col:  49):	Expected newline before brace
+Error: SPACE_REPLACE_TAB    (line:  87, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line:  87, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line:  87, col:  16):	Declaration and assignation on a single line
+Error: LINE_TOO_LONG        (line:  91, col:  82):	line too long
+Error: NO_SPC_AFR_PAR       (line:  92, col:  40):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line:  92, col:  42):	Missing tabs for indent level
+Error: SPACE_AFTER_KW       (line:  95, col:   9):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line:  97, col:   1):	Empty line in function
+Error: NO_SPC_AFR_PAR       (line:  98, col:  68):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line:  98, col:  70):	Missing tabs for indent level
+Error: SPACE_AFTER_KW       (line: 101, col:   9):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line: 103, col:   1):	Empty line in function
+Error: SPC_BEFORE_NL        (line: 104, col:  77):	Space before newline
+Error: TOO_MANY_TAB         (line: 105, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 106, col:   1):	Empty line in function
+Error: NO_SPC_AFR_PAR       (line: 107, col:  41):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 107, col:  43):	Missing tabs for indent level
+Error: SPACE_AFTER_KW       (line: 110, col:   9):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line: 112, col:   1):	Empty line in function
+Error: EMPTY_LINE_FUNCTION  (line: 114, col:   1):	Empty line in function
+Error: TOO_MANY_LINES       (line: 115, col:   1):	Function has more than 25 lines
+Error: TOO_MANY_TAB         (line: 115, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 115, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 115, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 115, col:   7):	Statement is in incorrect scope
+Error: EXP_NEWLINE          (line: 115, col:  16):	Expected newline after control structure
+Error: TOO_MANY_TAB         (line: 117, col:   1):	Extra tabs for indent level
+Error: NEWLINE_PRECEDES_FUNC (line: 118, col:   1):	Functions must be separated by a newline
+Error: SPACE_BEFORE_FUNC    (line: 120, col:   5):	space before function name
+Error: FORBIDDEN_CHAR_NAME  (line: 120, col:   6):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: FORBIDDEN_CHAR_NAME  (line: 120, col:   6):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPC_AFTER_POINTER    (line: 120, col:  39):	space after pointer
+Error: EMPTY_LINE_FUNCTION  (line: 121, col:   1):	Empty line in function
+Error: NO_SPC_AFR_PAR       (line: 122, col:  43):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 122, col:  45):	Missing tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 125, col:   6):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 125, col:   7):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 125, col:   7):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 125, col:  12):	Missing tabs for indent level
+Error: SPACE_AFTER_KW       (line: 126, col:   9):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line: 128, col:   1):	Empty line in function
+Error: NO_SPC_AFR_PAR       (line: 129, col:  79):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 129, col:  81):	Missing tabs for indent level
+Error: LINE_TOO_LONG        (line: 129, col:  82):	line too long
+Error: SPACE_AFTER_KW       (line: 131, col:  31):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line: 134, col:   1):	Empty line in function
+Error: SPACE_BEFORE_FUNC    (line: 137, col:   4):	space before function name
+Error: FORBIDDEN_CHAR_NAME  (line: 137, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPC_AFTER_POINTER    (line: 137, col:  24):	space after pointer
+Error: SPC_AFTER_POINTER    (line: 137, col:  42):	space after pointer
+Error: BRACE_NEWLINE        (line: 137, col:  50):	Expected newline before brace
+Error: SPACE_REPLACE_TAB    (line: 138, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 138, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 138, col:  16):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 139, col:  16):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 139, col:  17):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 139, col:  17):	Misaligned variable declaration
+Error: TOO_MANY_TAB         (line: 144, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 144, col:  45):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 144, col:  47):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 147, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 147, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 148, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 149, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 150, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 150, col:  60):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 150, col:  62):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 153, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 153, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 154, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 155, col:   1):	Empty line in function
+Error: LINE_TOO_LONG        (line: 157, col:  82):	line too long
+Error: TOO_MANY_TAB         (line: 158, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 159, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 160, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 160, col:  46):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 160, col:  48):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 163, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 163, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 164, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 165, col:   1):	Empty line in function
+Error: EMPTY_LINE_FUNCTION  (line: 167, col:   1):	Empty line in function
+Error: TOO_MANY_LINES       (line: 168, col:   1):	Function has more than 25 lines
+Error: TOO_MANY_TAB         (line: 168, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 168, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 168, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 168, col:   7):	Statement is in incorrect scope
+Error: EXP_NEWLINE          (line: 168, col:  16):	Expected newline after control structure
+Error: TOO_MANY_TAB         (line: 170, col:   1):	Extra tabs for indent level
+Error: NEWLINE_PRECEDES_FUNC (line: 171, col:   1):	Functions must be separated by a newline
+Error: TOO_MANY_FUNCS       (line: 171, col:   1):	Too many functions in file
+Error: SPACE_BEFORE_FUNC    (line: 173, col:   5):	space before function name
+Error: FORBIDDEN_CHAR_NAME  (line: 173, col:   6):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPC_AFTER_POINTER    (line: 173, col:  27):	space after pointer
+Error: EMPTY_LINE_FUNCTION  (line: 174, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line: 174, col:   1):	Space on empty line
+Error: NO_SPC_AFR_PAR       (line: 175, col:  44):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 175, col:  46):	Missing tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 178, col:   6):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 178, col:   7):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 178, col:   7):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 178, col:  12):	Missing tabs for indent level
+Error: SPACE_AFTER_KW       (line: 179, col:   9):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line: 181, col:   1):	Empty line in function
+Error: NO_SPC_AFR_PAR       (line: 182, col:  42):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 182, col:  44):	Missing tabs for indent level
+Error: SPACE_AFTER_KW       (line: 184, col:  32):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line: 187, col:   1):	Empty line in function
+Error: TOO_MANY_FUNCS       (line: 190, col:   1):	Too many functions in file
+Error: SPACE_BEFORE_FUNC    (line: 190, col:   4):	space before function name
+Error: FORBIDDEN_CHAR_NAME  (line: 190, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: FORBIDDEN_CHAR_NAME  (line: 190, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: FORBIDDEN_CHAR_NAME  (line: 190, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPC_AFTER_POINTER    (line: 190, col:  29):	space after pointer
+Error: SPC_AFTER_POINTER    (line: 190, col:  53):	space after pointer
+Error: LINE_TOO_LONG        (line: 190, col:  82):	line too long
+Error: BRACE_NEWLINE        (line: 190, col: 100):	Expected newline before brace
+Error: LINE_TOO_LONG        (line: 190, col: 100):	line too long
+Error: SPACE_REPLACE_TAB    (line: 191, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 191, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 191, col:  16):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 195, col:  31):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 197, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 197, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 198, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 200, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 200, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 200, col:  35):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 202, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 202, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 203, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 205, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 205, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 205, col:  30):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 207, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 207, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 208, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 210, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 210, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 210, col:  34):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 212, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 212, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 213, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 215, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 215, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 215, col:  45):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 217, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 217, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 218, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 220, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 220, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 220, col:  35):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 222, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 222, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 223, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 225, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 225, col:  37):	Missing space after keyword
+Error: LINE_TOO_LONG        (line: 225, col:  82):	line too long
+Error: TOO_MANY_TAB         (line: 227, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 227, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 227, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 227, col:   7):	Statement is in incorrect scope
+Error: EXP_NEWLINE          (line: 227, col:  16):	Expected newline after control structure
+Error: TOO_MANY_TAB         (line: 229, col:   1):	Extra tabs for indent level
+Error: NEWLINE_PRECEDES_FUNC (line: 230, col:   1):	Functions must be separated by a newline
+Error: TOO_MANY_FUNCS       (line: 230, col:   1):	Too many functions in file
+Error: SPACE_BEFORE_FUNC    (line: 232, col:   4):	space before function name
+Error: FORBIDDEN_CHAR_NAME  (line: 232, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPC_AFTER_POINTER    (line: 232, col:  23):	space after pointer
+Error: SPC_AFTER_POINTER    (line: 232, col:  35):	space after pointer
+Error: SPACE_REPLACE_TAB    (line: 233, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 233, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 233, col:  16):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 234, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 234, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 234, col:  17):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 235, col:   9):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 235, col:  10):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 235, col:  10):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 235, col:  32):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 235, col:  34):	Extra space after parenthesis (brace/bracket)
+Error: NO_SPC_BFR_PAR       (line: 235, col:  38):	Extra space before parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 240, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 240, col:  24):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 240, col:  26):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 242, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 243, col:   1):	Empty line in function
+Error: EMPTY_LINE_FUNCTION  (line: 246, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 247, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 247, col:  53):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 247, col:  55):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 249, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 249, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 250, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 251, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 252, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 252, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 252, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 252, col:   7):	Statement is in incorrect scope
+Error: EXP_NEWLINE          (line: 252, col:  16):	Expected newline after control structure
+Error: TOO_MANY_TAB         (line: 254, col:   1):	Extra tabs for indent level
+Error: NEWLINE_PRECEDES_FUNC (line: 255, col:   1):	Functions must be separated by a newline
+Error: TOO_MANY_FUNCS       (line: 255, col:   1):	Too many functions in file
+Error: SPACE_BEFORE_FUNC    (line: 257, col:   4):	space before function name
+Error: FORBIDDEN_CHAR_NAME  (line: 257, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: FORBIDDEN_CHAR_NAME  (line: 257, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: FORBIDDEN_CHAR_NAME  (line: 257, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPC_AFTER_POINTER    (line: 257, col:  30):	space after pointer
+Error: SPC_AFTER_POINTER    (line: 257, col:  54):	space after pointer
+Error: LINE_TOO_LONG        (line: 257, col:  82):	line too long
+Error: TOO_MANY_ARGS        (line: 257, col: 117):	Function has more than 4 arguments
+Error: LINE_TOO_LONG        (line: 257, col: 118):	line too long
+Error: SPACE_REPLACE_TAB    (line: 258, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 258, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 258, col:  16):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 259, col:  19):	Found space when expecting tab
+Error: SPC_AFTER_POINTER    (line: 259, col:  19):	space after pointer
+Error: FORBIDDEN_CHAR_NAME  (line: 259, col:  21):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 259, col:  21):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 259, col:  27):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 260, col:  22):	Found space when expecting tab
+Error: SPC_AFTER_POINTER    (line: 260, col:  22):	space after pointer
+Error: FORBIDDEN_CHAR_NAME  (line: 260, col:  24):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 260, col:  24):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 260, col:  34):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 260, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: LINE_TOO_LONG        (line: 260, col:  82):	line too long
+Error: NO_SPC_AFR_PAR       (line: 264, col:  31):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 266, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 266, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 267, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 269, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 269, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 269, col:  35):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 271, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 271, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 272, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 274, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 274, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 274, col:  30):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 276, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 276, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 277, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 279, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 279, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 279, col:  34):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 281, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 281, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 282, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 284, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 284, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 284, col:  35):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 286, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 286, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 287, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 289, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 289, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 289, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 291, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 291, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 292, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 296, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 296, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 296, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 298, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 298, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 299, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 301, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 301, col:  37):	Missing space after keyword
+Error: LINE_TOO_LONG        (line: 301, col:  86):	line too long
+Error: TOO_MANY_TAB         (line: 303, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 303, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 303, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 303, col:   7):	Statement is in incorrect scope
+Error: EXP_NEWLINE          (line: 303, col:  16):	Expected newline after control structure
+Error: TOO_MANY_TAB         (line: 305, col:   1):	Extra tabs for indent level
+Error: NEWLINE_PRECEDES_FUNC (line: 306, col:   1):	Functions must be separated by a newline
+Error: TOO_MANY_FUNCS       (line: 306, col:   1):	Too many functions in file
+Error: SPACE_BEFORE_FUNC    (line: 308, col:   4):	space before function name
+Error: FORBIDDEN_CHAR_NAME  (line: 308, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: FORBIDDEN_CHAR_NAME  (line: 308, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: FORBIDDEN_CHAR_NAME  (line: 308, col:   5):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: SPC_AFTER_POINTER    (line: 308, col:  28):	space after pointer
+Error: SPC_AFTER_POINTER    (line: 308, col:  52):	space after pointer
+Error: LINE_TOO_LONG        (line: 308, col:  82):	line too long
+Error: LINE_TOO_LONG        (line: 308, col:  99):	line too long
+Error: SPACE_REPLACE_TAB    (line: 309, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 309, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 309, col:  16):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 310, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 310, col:  15):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 310, col:  15):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 310, col:  25):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 311, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 311, col:  15):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 311, col:  15):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 311, col:  27):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 312, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 312, col:  15):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 312, col:  15):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 312, col:  27):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 313, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 313, col:  15):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 313, col:  15):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 313, col:  25):	Declaration and assignation on a single line
+Error: TOO_MANY_VARS_FUNC   (line: 314, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 314, col:  13):	Found space when expecting tab
+Error: SPC_AFTER_POINTER    (line: 314, col:  13):	space after pointer
+Error: MISALIGNED_VAR_DECL  (line: 314, col:  15):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 314, col:  23):	Declaration and assignation on a single line
+Error: TOO_MANY_VARS_FUNC   (line: 315, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 315, col:  19):	Found space when expecting tab
+Error: SPC_AFTER_POINTER    (line: 315, col:  19):	space after pointer
+Error: FORBIDDEN_CHAR_NAME  (line: 315, col:  21):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 315, col:  21):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 315, col:  27):	Declaration and assignation on a single line
+Error: TOO_MANY_VARS_FUNC   (line: 316, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 316, col:  22):	Found space when expecting tab
+Error: SPC_AFTER_POINTER    (line: 316, col:  22):	space after pointer
+Error: FORBIDDEN_CHAR_NAME  (line: 316, col:  24):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 316, col:  24):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 316, col:  34):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 316, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: LINE_TOO_LONG        (line: 316, col:  82):	line too long
+Error: NO_SPC_AFR_PAR       (line: 320, col:  31):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 322, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 322, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 323, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 325, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 325, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 325, col:  35):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 327, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 327, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 328, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 330, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 330, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 330, col:  30):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 332, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 332, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 333, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 335, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 335, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 335, col:  34):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 337, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 337, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 338, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 340, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 340, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 340, col:  35):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 342, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 342, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 343, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 345, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 345, col:   1):	Statement is in incorrect scope
+Error: FORBIDDEN_CS         (line: 345, col:   9):	Forbidden control structure
+Error: NO_SPC_AFR_PAR       (line: 345, col:  61):	Extra space after parenthesis (brace/bracket)
+Error: LINE_TOO_LONG        (line: 346, col:  82):	line too long
+Error: EMPTY_LINE_FUNCTION  (line: 347, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 348, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 348, col:  35):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 348, col:  37):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 350, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 351, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 351, col:  25):	Missing space after keyword
+Error: LINE_TOO_LONG        (line: 351, col:  87):	line too long
+Error: TOO_MANY_TAB         (line: 352, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 353, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 356, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 357, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 360, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 362, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 362, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 362, col:  17):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 364, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 364, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 365, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 367, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 367, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 367, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 367, col:   7):	Statement is in incorrect scope
+Error: EXP_NEWLINE          (line: 367, col:  16):	Expected newline after control structure
+Error: TOO_MANY_TAB         (line: 369, col:   1):	Extra tabs for indent level
+Error: NEWLINE_PRECEDES_FUNC (line: 370, col:   1):	Functions must be separated by a newline
+Error: TOO_MANY_FUNCS       (line: 370, col:   1):	Too many functions in file
+Error: SPACE_BEFORE_FUNC    (line: 372, col:   4):	space before function name
+Error: NO_ARGS_VOID         (line: 372, col:  10):	Empty function argument requires void
+Error: SPACE_REPLACE_TAB    (line: 373, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 373, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 373, col:  16):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 374, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 374, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 374, col:  17):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 375, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 375, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 375, col:  18):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 376, col:  13):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 376, col:  14):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 376, col:  14):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 376, col:  21):	Declaration and assignation on a single line
+Error: SPACE_REPLACE_TAB    (line: 377, col:   8):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 377, col:   9):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: DECL_ASSIGN_LINE     (line: 377, col:  17):	Declaration and assignation on a single line
+Error: TOO_MANY_VARS_FUNC   (line: 378, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 378, col:   9):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 378, col:  10):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 378, col:  10):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 378, col:  31):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 378, col:  33):	Extra space after parenthesis (brace/bracket)
+Error: NO_SPC_BFR_PAR       (line: 378, col:  37):	Extra space before parenthesis (brace/bracket)
+Error: TOO_MANY_VARS_FUNC   (line: 379, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 379, col:   9):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 379, col:  10):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 379, col:  10):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 379, col:  32):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 379, col:  34):	Extra space after parenthesis (brace/bracket)
+Error: NO_SPC_BFR_PAR       (line: 379, col:  38):	Extra space before parenthesis (brace/bracket)
+Error: TOO_MANY_VARS_FUNC   (line: 380, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 380, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 380, col:  15):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 380, col:  15):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 380, col:  25):	Declaration and assignation on a single line
+Error: TOO_MANY_VARS_FUNC   (line: 381, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 381, col:  15):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 381, col:  16):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 381, col:  16):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 381, col:  26):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 381, col:  28):	Extra space after parenthesis (brace/bracket)
+Error: NO_SPC_BFR_PAR       (line: 381, col:  55):	Extra space before parenthesis (brace/bracket)
+Error: TOO_MANY_VARS_FUNC   (line: 382, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 382, col:  16):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 382, col:  17):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 382, col:  17):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 382, col:  28):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 382, col:  30):	Extra space after parenthesis (brace/bracket)
+Error: NO_SPC_BFR_PAR       (line: 382, col:  57):	Extra space before parenthesis (brace/bracket)
+Error: TOO_MANY_VARS_FUNC   (line: 383, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 383, col:  14):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 383, col:  15):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 383, col:  15):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 383, col:  26):	Declaration and assignation on a single line
+Error: TOO_MANY_VARS_FUNC   (line: 384, col:   1):	Too many variables declarations in a function
+Error: SPACE_REPLACE_TAB    (line: 384, col:  13):	Found space when expecting tab
+Error: FORBIDDEN_CHAR_NAME  (line: 384, col:  14):	user defined identifiers should contain only lowercase characters, digits or '_'
+Error: MISALIGNED_VAR_DECL  (line: 384, col:  14):	Misaligned variable declaration
+Error: DECL_ASSIGN_LINE     (line: 384, col:  21):	Declaration and assignation on a single line
+Error: NO_SPC_AFR_PAR       (line: 388, col:  46):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 390, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 390, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 391, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 393, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 393, col:   1):	Statement is in incorrect scope
+Error: ASSIGN_IN_CONTROL    (line: 393, col:  22):	Assignment in control structure
+Error: NO_SPC_AFR_PAR       (line: 393, col:  60):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 394, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 396, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 396, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 397, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 399, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 399, col:   1):	Statement is in incorrect scope
+Error: ASSIGN_IN_CONTROL    (line: 399, col:  23):	Assignment in control structure
+Error: NO_SPC_AFR_PAR       (line: 399, col:  62):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 401, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 401, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 402, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 404, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 404, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 404, col:  49):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 406, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 406, col:  13):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 407, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 409, col:   1):	Extra tabs for indent level
+Error: CONSECUTIVE_NEWLINES (line: 411, col:   1):	Consecutive newlines
+Error: CONSECUTIVE_NEWLINES (line: 412, col:   1):	Consecutive newlines
+Error: TOO_MANY_TAB         (line: 413, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 413, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 413, col:  63):	Extra space after parenthesis (brace/bracket)
+Error: EMPTY_LINE_FUNCTION  (line: 414, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 415, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 415, col:  48):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 415, col:  50):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 417, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 417, col:  17):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 418, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 419, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 420, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 420, col:  53):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 420, col:  55):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 422, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 422, col:  17):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 423, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 424, col:   1):	Empty line in function
+Error: CONSECUTIVE_NEWLINES (line: 425, col:   1):	Consecutive newlines
+Error: EMPTY_LINE_FUNCTION  (line: 425, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 426, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 426, col:  49):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 426, col:  51):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 427, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 428, col:   1):	Extra tabs for indent level
+Error: ASSIGN_IN_CONTROL    (line: 428, col:  30):	Assignment in control structure
+Error: NO_SPC_AFR_PAR       (line: 428, col:  68):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 428, col:  70):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 430, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 430, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 431, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 432, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 433, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 433, col:  61):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 433, col:  63):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 435, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 435, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 436, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 437, col:   1):	Empty line in function
+Error: EMPTY_LINE_FUNCTION  (line: 439, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 440, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 440, col:  57):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 440, col:  59):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 442, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 442, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 443, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 444, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 444, col:  14):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 444, col:  15):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 444, col:  15):	Too many instructions on a single line
+Error: NO_SPC_AFR_PAR       (line: 444, col:  63):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 444, col:  65):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 445, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line: 445, col:   1):	Space on empty line
+Error: TOO_MANY_TAB         (line: 446, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 446, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 446, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 448, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 448, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 449, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 450, col:   1):	Empty line in function
+Error: EMPTY_LINE_FUNCTION  (line: 452, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 453, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 453, col:  58):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 453, col:  60):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 455, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 455, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 455, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 456, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 456, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 457, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 458, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 458, col:  18):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 458, col:  19):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 458, col:  19):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 458, col:  24):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 460, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 461, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 461, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 462, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 463, col:   1):	Empty line in function
+Error: CONSECUTIVE_NEWLINES (line: 464, col:   1):	Consecutive newlines
+Error: EMPTY_LINE_FUNCTION  (line: 464, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 465, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 465, col:  14):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 465, col:  15):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 465, col:  15):	Too many instructions on a single line
+Error: NO_SPC_AFR_PAR       (line: 465, col:  65):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 465, col:  67):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 466, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 467, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 467, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 467, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 469, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 469, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 470, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 471, col:   1):	Empty line in function
+Error: CONSECUTIVE_NEWLINES (line: 472, col:   1):	Consecutive newlines
+Error: EMPTY_LINE_FUNCTION  (line: 472, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 473, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 473, col:  51):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 473, col:  53):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 475, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 475, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 475, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 476, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 476, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 477, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 478, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 478, col:  18):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 478, col:  19):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 478, col:  19):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 478, col:  24):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 479, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE_VAR      (line: 479, col:   1):	Variable declared in incorrect scope
+Error: SPACE_REPLACE_TAB    (line: 479, col:  30):	Found space when expecting tab
+Error: DECL_ASSIGN_LINE     (line: 479, col:  38):	Declaration and assignation on a single line
+Error: TOO_MANY_TAB         (line: 480, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE_VAR      (line: 480, col:   1):	Variable declared in incorrect scope
+Error: SPACE_REPLACE_TAB    (line: 480, col:  29):	Found space when expecting tab
+Error: SPC_AFTER_POINTER    (line: 480, col:  29):	space after pointer
+Error: DECL_ASSIGN_LINE     (line: 480, col:  35):	Declaration and assignation on a single line
+Error: TOO_MANY_TAB         (line: 482, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 482, col:  59):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 482, col:  61):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 484, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 484, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 485, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 486, col:   1):	Empty line in function
+Error: SPACE_AFTER_KW       (line: 487, col:  23):	Missing space after keyword
+Error: EMPTY_LINE_FUNCTION  (line: 488, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 490, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 490, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 490, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 491, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 491, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 492, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 493, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 494, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 494, col:  14):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 494, col:  15):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 494, col:  15):	Too many instructions on a single line
+Error: NO_SPC_AFR_PAR       (line: 494, col:  60):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 494, col:  62):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 495, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 496, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 496, col:  52):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 496, col:  54):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 498, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 498, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 499, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 500, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 501, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 501, col:  57):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 501, col:  59):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 503, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 503, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 504, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 505, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 506, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 506, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 506, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 508, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 508, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 508, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 509, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 509, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 510, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 511, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 511, col:  18):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 511, col:  19):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 511, col:  19):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 511, col:  24):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 513, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 513, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 513, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 514, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 514, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 515, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 516, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 517, col:   1):	Empty line in function
+Error: CONSECUTIVE_NEWLINES (line: 518, col:   1):	Consecutive newlines
+Error: EMPTY_LINE_FUNCTION  (line: 518, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 519, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 519, col:  14):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 519, col:  15):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 519, col:  15):	Too many instructions on a single line
+Error: NO_SPC_AFR_PAR       (line: 519, col:  74):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 519, col:  76):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 520, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 521, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 521, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 521, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 523, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 523, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 524, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 525, col:   1):	Empty line in function
+Error: EMPTY_LINE_FUNCTION  (line: 527, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 528, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 528, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 528, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 530, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 530, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 531, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 532, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 533, col:   1):	Extra tabs for indent level
+Error: LINE_TOO_LONG        (line: 533, col:  82):	line too long
+Error: NO_SPC_AFR_PAR       (line: 533, col:  86):	Extra space after parenthesis (brace/bracket)
+Error: LINE_TOO_LONG        (line: 533, col:  88):	line too long
+Error: TOO_FEW_TAB          (line: 533, col:  88):	Missing tabs for indent level
+Error: LINE_TOO_LONG        (line: 534, col:  86):	line too long
+Error: TOO_MANY_TAB         (line: 535, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 535, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 535, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 536, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 536, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 537, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 538, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 538, col:  18):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 538, col:  19):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 538, col:  19):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 538, col:  24):	Missing tabs for indent level
+Error: LINE_TOO_LONG        (line: 539, col:  88):	line too long
+Error: TOO_MANY_TAB         (line: 540, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 540, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 540, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 541, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 541, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 542, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 543, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 544, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 544, col:  14):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 544, col:  15):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 544, col:  15):	Too many instructions on a single line
+Error: NO_SPC_AFR_PAR       (line: 544, col:  75):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 544, col:  77):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 545, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line: 545, col:   1):	Space on empty line
+Error: TOO_MANY_TAB         (line: 546, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 546, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 546, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 548, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 548, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 549, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 550, col:   1):	Empty line in function
+Error: EMPTY_LINE_FUNCTION  (line: 552, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 553, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 553, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 553, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 555, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 555, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 556, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 557, col:   1):	Empty line in function
+Error: SPACE_EMPTY_LINE     (line: 557, col:   1):	Space on empty line
+Error: EMPTY_LINE_FUNCTION  (line: 559, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 560, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 560, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 560, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 562, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 562, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 563, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 564, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 565, col:   1):	Extra tabs for indent level
+Error: LINE_TOO_LONG        (line: 565, col:  89):	line too long
+Error: NO_SPC_AFR_PAR       (line: 565, col:  95):	Extra space after parenthesis (brace/bracket)
+Error: LINE_TOO_LONG        (line: 565, col:  97):	line too long
+Error: TOO_FEW_TAB          (line: 565, col:  97):	Missing tabs for indent level
+Error: LINE_TOO_LONG        (line: 566, col:  87):	line too long
+Error: TOO_MANY_TAB         (line: 567, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 567, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 567, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 568, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 568, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 569, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 570, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 570, col:  18):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 570, col:  19):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 570, col:  19):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 570, col:  24):	Missing tabs for indent level
+Error: LINE_TOO_LONG        (line: 571, col:  89):	line too long
+Error: TOO_MANY_TAB         (line: 572, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 572, col:  36):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 572, col:  38):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 573, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 573, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 574, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 575, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 576, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 576, col:  14):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 576, col:  15):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 576, col:  15):	Too many instructions on a single line
+Error: LINE_TOO_LONG        (line: 576, col:  82):	line too long
+Error: NO_SPC_AFR_PAR       (line: 576, col:  83):	Extra space after parenthesis (brace/bracket)
+Error: LINE_TOO_LONG        (line: 576, col:  85):	line too long
+Error: TOO_FEW_TAB          (line: 576, col:  85):	Missing tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 577, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 578, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 578, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 578, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 580, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 580, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 581, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 582, col:   1):	Empty line in function
+Error: EMPTY_LINE_FUNCTION  (line: 584, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 585, col:   1):	Extra tabs for indent level
+Error: NO_SPC_AFR_PAR       (line: 585, col:  55):	Extra space after parenthesis (brace/bracket)
+Error: TOO_FEW_TAB          (line: 585, col:  57):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 587, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 587, col:  21):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 588, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 589, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 590, col:   1):	Extra tabs for indent level
+Error: LINE_TOO_LONG        (line: 590, col:  83):	line too long
+Error: NO_SPC_AFR_PAR       (line: 590, col:  85):	Extra space after parenthesis (brace/bracket)
+Error: LINE_TOO_LONG        (line: 590, col:  87):	line too long
+Error: TOO_FEW_TAB          (line: 590, col:  87):	Missing tabs for indent level
+Error: LINE_TOO_LONG        (line: 591, col:  85):	line too long
+Error: TOO_MANY_TAB         (line: 592, col:   1):	Extra tabs for indent level
+Error: TOO_FEW_TAB          (line: 592, col:  37):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 593, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 593, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 594, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 595, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 595, col:  18):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 595, col:  19):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 595, col:  19):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 595, col:  24):	Missing tabs for indent level
+Error: LINE_TOO_LONG        (line: 596, col:  87):	line too long
+Error: TOO_MANY_TAB         (line: 597, col:   1):	Extra tabs for indent level
+Error: TOO_FEW_TAB          (line: 597, col:  37):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 598, col:   1):	Extra tabs for indent level
+Error: SPACE_AFTER_KW       (line: 598, col:  25):	Missing space after keyword
+Error: TOO_MANY_TAB         (line: 599, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 600, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 601, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 602, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 602, col:  14):	Expected newline after brace
+Error: TOO_FEW_TAB          (line: 602, col:  15):	Missing tabs for indent level
+Error: TOO_MANY_INSTR       (line: 602, col:  15):	Too many instructions on a single line
+Error: TOO_FEW_TAB          (line: 602, col:  20):	Missing tabs for indent level
+Error: TOO_MANY_TAB         (line: 603, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 604, col:   1):	Extra tabs for indent level
+Error: EMPTY_LINE_FUNCTION  (line: 605, col:   1):	Empty line in function
+Error: TOO_MANY_TAB         (line: 606, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 608, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 608, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 608, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 608, col:   7):	Statement is in incorrect scope
+Error: EXP_NEWLINE          (line: 608, col:  16):	Expected newline after control structure
+Error: CONSECUTIVE_NEWLINES (line: 610, col:   1):	Consecutive newlines
+Error: CONSECUTIVE_NEWLINES (line: 611, col:   1):	Consecutive newlines
+Error: TOO_MANY_TAB         (line: 612, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 612, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 612, col:  34):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 613, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 614, col:   1):	Extra tabs for indent level
+Error: RETURN_PARENTHESIS   (line: 614, col:  16):	Return value must be in parenthesis
+Error: TOO_MANY_TAB         (line: 615, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 615, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 615, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 615, col:   7):	Statement is in incorrect scope
+Error: TOO_MANY_TAB         (line: 616, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 617, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 619, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 619, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 619, col:  32):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 620, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 621, col:   1):	Extra tabs for indent level
+Error: RETURN_PARENTHESIS   (line: 621, col:  16):	Return value must be in parenthesis
+Error: TOO_MANY_TAB         (line: 622, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 622, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 622, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 622, col:   7):	Statement is in incorrect scope
+Error: TOO_MANY_TAB         (line: 623, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 624, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 626, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 626, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 626, col:  33):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 627, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 628, col:   1):	Extra tabs for indent level
+Error: RETURN_PARENTHESIS   (line: 628, col:  16):	Return value must be in parenthesis
+Error: TOO_MANY_TAB         (line: 629, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 629, col:   6):	Expected newline after brace
+Error: TOO_MANY_INSTR       (line: 629, col:   7):	Too many instructions on a single line
+Error: WRONG_SCOPE          (line: 629, col:   7):	Statement is in incorrect scope
+Error: TOO_MANY_TAB         (line: 630, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 631, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 633, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 633, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 633, col:  29):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 634, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 635, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 637, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 637, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 637, col:  28):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 638, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 639, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 641, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 641, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 641, col:  33):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 642, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 643, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 645, col:   1):	Extra tabs for indent level
+Error: WRONG_SCOPE          (line: 645, col:   1):	Statement is in incorrect scope
+Error: NO_SPC_AFR_PAR       (line: 645, col:  33):	Extra space after parenthesis (brace/bracket)
+Error: TOO_MANY_TAB         (line: 646, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 647, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 649, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 650, col:   1):	Extra tabs for indent level
+Error: TOO_MANY_TAB         (line: 652, col:   1):	Extra tabs for indent level
+Error: BRACE_SHOULD_EOL     (line: 653, col:   1):	Expected newline after brace
